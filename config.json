@@ -1,6 +1,6 @@
 {
   "board": "mega2560", 
-  "ide": "", 
+  "ide": "clion", 
   "framework": "cosa", 
   "generator": "", 
   "port": "", 

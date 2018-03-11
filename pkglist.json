@@ -1,1 +1,1 @@
-[{"paths": ["lib/wlib"], "name": "wlib-1.0.0", "url": "https://github.com/waterloop/wlib", "version": "1.0.0", "branch": "", "unqualified_name": "wlib"}]
+[{"paths": ["pkg/wlib"], "name": "wlib-1.0.0", "url": "https://github.com/waterloop/wlib", "version": "1.0.0", "branch": "", "unqualified_name": "wlib"}]
